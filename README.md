@@ -1,2 +1,6 @@
 # RPC-Server
-An RPC Server written in C
+
+A Remote Procedure Call Server written in C.
+<br />
+Status: ONGOING
+
