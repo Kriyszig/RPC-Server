@@ -14,7 +14,7 @@ int main()
     }
 
     // File is run on the computer and the stream is redirected to streams.txt
-    exit_code = system(".\\executable\\example.exe > .\\streams\\streams.txt 2>&1");
+    exit_code = system(".\\executable\\example > .\\streams\\streams.txt 2>&1");
 
     //Fetching the output
     char* output = 0;
